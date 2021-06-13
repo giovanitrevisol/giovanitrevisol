@@ -6,11 +6,13 @@
 
 <p align='center'>
 <br>
-  Sou programador Java na [CWI Além do Software](https://cwi.com.br/) <br>
+  Sou programador Java na <a href="https://cwi.com.br/">CWI - Além do Software</a> </br>
   Possuo conhecimento amplo em FLutter/Dart <br>
-  Sou apaixonador por tecnologia e busco sempre acompanhar as novidades deste mundo. <br>
-  Apreciador de um bom café ☕☕☕
-  ## Formação
+  Sou apaixonador por tecnologia e busco sempre acompanhar as novidades deste mundo. </br>
+  Apreciador de um bom café ☕☕☕ </br>
+</p>
+
+ ## Formação
 📖 **Sistemas de Informação**\
 <br>
   
